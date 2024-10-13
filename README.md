@@ -1,2 +1,2 @@
 # Portfolio
-This repository represents my portfolio projects. 
+This repository showcases my knowledge and skills in action.
