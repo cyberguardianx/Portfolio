@@ -11,7 +11,7 @@
 - [Contact](#contact)
 
 ## Overview
-This project is a cybersecurity tool designed to [briefly describe the purpose of the project, e.g., "enhance network security by detecting vulnerabilities, preventing unauthorized access, and protecting sensitive data"]. Built with a focus on reliability and security, this tool is ideal for penetration testers, network administrators, and cybersecurity enthusiasts looking to strengthen system defenses.
+This is a cybersecurity project designed to showcase my skills aross many domains (but not limited to) including Cyber Security, Cloud, Linux, Networking etc... Built with a focus on reliability and security.
 
 ## Features
 - **[Feature 1]** – Describe what this feature does and how it helps the user.
