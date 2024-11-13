@@ -1,36 +1,98 @@
 # Cybersecurity Project Portfolio
 
 ## Overview
-This repository showcases a collection of cybersecurity projects that demonstrate my skills across various domains, including Cyber Security, Cloud, Linux, Networking, and more. Each project is built with a focus on reliability and security.
+This portfolio showcases my cybersecurity projects and skills developed after completing the Google Cybersecurity Certificate. The projects demonstrate practical experience across various domains including Network Security, Cloud Infrastructure, Linux Systems, and Security Operations.
 
-## List of Projects
+## Skills Demonstrated
+- Network Traffic Analysis
+- Intrusion Detection & Prevention
+- Web Application Security
+- Incident Response
+- Threat Hunting
+- Security Automation
+- Log Analysis
+- Windows Security
+- SIEM Implementation
+- Framework Implementation (MITRE ATT&CK, NIST CSF)
 
-1. **Wireshark Analysis and Report Generation**  
-   Capture and analyze network traffic using Wireshark, identify potential threats, and create a detailed report.
+## Project Status Tracker
+| Project | Status | Completion Date |
+|---------|--------|-----------------|
+| Wireshark Analysis | 🚧 In Progress | - |
+| Web App Security | 📝 Planned | - |
+| PowerShell Security | 📝 Planned | - |
+| IDS with ELK | 📝 Planned | - |
+| MITRE Implementation | 📝 Planned | - |
+| SOAR Automation | 📝 Planned | - |
+| SIEM Use Cases | 📝 Planned | - |
+| Threat Hunting | 📝 Planned | - |
+| EDR Implementation | 📝 Planned | - |
 
-2. **Web Application Vulnerability Analysis using SQL Injection and XSS**  
-   Create a vulnerable web application (using HTML, SQL, and Python/PHP) and implement defenses against SQL Injection and Cross-Site Scripting (XSS).
+## Projects in Detail
 
-3. **PowerShell Script for Windows Security Auditing**  
-   Develop a PowerShell script to perform a security audit on Windows systems, focusing on compliance and vulnerability checks.
+### 1. Network Traffic Analysis with Wireshark
+- Capture and analyze network traffic using Wireshark
+- Identify potential security threats and anomalies
+- Generate detailed analysis reports
+- Document incident response recommendations
+- [View Project Details](link-to-project-1) 📍
 
-4. **Intrusion Detection & Prevention System with Snort/Suricata and ELK Stack**  
-   Set up a robust Intrusion Detection System (IDS) using Snort or Suricata, and integrate it with an ELK Stack (Elasticsearch, Logstash, Kibana) for real-time monitoring and alerting.
+### 2. Web Application Security Analysis
+- Create vulnerable web application testing environment
+- Implement SQL Injection attack scenarios
+- Develop Cross-Site Scripting (XSS) test cases
+- Document security hardening measures
+- [View Project Details](link-to-project-2) 📍
 
-5. **Threat Detection and Response System using MITRE ATT&CK and NIST CSF**  
-   Build a Threat Detection and Response System for a simulated network environment using MITRE ATT&CK to map attack techniques and tactics, while aligning security controls and response measures with the NIST Cybersecurity Framework.
+### 3. Windows Security Automation
+- Develop PowerShell security audit scripts
+- Implement compliance checking mechanisms
+- Perform automated vulnerability assessments
+- Generate security compliance reports
+- [View Project Details](link-to-project-3) 📍
 
-6. **Automated Incident Response with SOAR using Python**  
-   Create a Python-based script to simulate a basic SOAR (Security Orchestration, Automation, and Response) process for automating incident response tasks.
+### 4. IDS/IPS Implementation
+- Deploy Snort/Suricata in a test environment
+- Configure ELK Stack integration
+- Develop custom detection rules
+- Implement real-time alerting
+- [View Project Details](link-to-project-4) 📍
 
-7. **SIEM Use Case Development with ELK Stack**  
-   Deploy a SIEM system using the ELK Stack and develop custom use cases to monitor and detect potential security incidents.
+### 5. Threat Detection Framework
+- Implement MITRE ATT&CK framework
+- Align security controls with NIST CSF
+- Create attack simulation scenarios
+- Develop incident response playbooks
+- [View Project Details](link-to-project-5) 📍
 
-8. **Log Analysis and Threat Hunting with SIEM (Splunk or ELK Stack)**  
-   Set up a SIEM system using Splunk or ELK Stack and conduct threat hunting exercises by analyzing logs from various sources (e.g., web server, firewall, IDS).
+### 6. SOAR Implementation
+- Develop Python-based SOAR scripts
+- Automate incident response procedures
+- Create response playbooks
+- Implement security orchestration
+- [View Project Details](link-to-project-6) 📍
 
-9. **Endpoint Detection and Response (EDR) using Wazuh**  
-   Implement Wazuh, an open-source EDR solution, to monitor endpoints for threats, perform log analysis, and automate threat response.
+### 7. SIEM Development
+- Deploy ELK Stack SIEM solution
+- Create custom detection use cases
+- Implement log correlation rules
+- Develop security dashboards
+- [View Project Details](link-to-project-7) 📍
 
-## Conclusion
-These projects reflect my practical experience and ability to implement various cybersecurity tools and techniques, from threat detection and response to secure software development. Each project aims to enhance my skills in addressing real-world cybersecurity challenges.
+### 8. Threat Hunting Operations
+- Configure SIEM log sources
+- Develop threat hunting procedures
+- Implement detection methodologies
+- Create investigation workflows
+- [View Project Details](link-to-project-8) 📍
+
+### 9. EDR Deployment
+- Install and configure Wazuh EDR
+- Implement endpoint monitoring
+- Develop automated response actions
+- Create threat detection rules
+- [View Project Details](link-to-project-9) 📍
+
+---
+
+📍 *Note: Project links will be updated as projects are completed*
