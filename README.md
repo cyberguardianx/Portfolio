@@ -18,8 +18,8 @@ This portfolio showcases my cybersecurity projects and skills developed after co
 ## Project Status Tracker
 |         Project         |       Status       | Completion Date |
 |-------------------------|--------------------|-----------------|
-| Wireshark Analysis      |   🚧 In Progress   |   15/11/2024    |
-| Web App Security        |   📝 Planned       |   20/11/2024    |
+| Wireshark Analysis      |   🚧 In Progress   |   20/11/2024    |
+| Web App Security        |   📝 Planned       |   30/11/2024    |
 | PowerShell Security     |   📝 Planned       | - |
 | IDS with ELK            |   📝 Planned       | - |
 | MITRE Implementation    |   📝 Planned       | - |
